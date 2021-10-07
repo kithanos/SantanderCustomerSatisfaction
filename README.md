@@ -7,6 +7,8 @@ A competição no Kaggle, bem como o dataset pode ser encontrado em:
 
 https://www.kaggle.com/c/santander-customer-satisfaction/overview
 
+Baixe os datasets, crie uma pasta datasets/ e coloque os datasets nesta pasta.
+
 Este foi um projeto desenvolvido na formação Cientista de Dados da Data Science Academy, mais especificamente pertencente ao curso "Big Data Real-Time Analytics com Python e Spark".
 
 https://www.datascienceacademy.com.br/home
